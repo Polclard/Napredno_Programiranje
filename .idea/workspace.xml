@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a92b738-7eb1-45f5-8ec3-ca8c0c03ed23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Napredno_Programiranje.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca1/ArrayReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca1/IntegerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca1/IntegerArrayTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca2/RomanConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/BankTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/FlatAmountProvisionTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/FlatPercentProvisionTransaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lab1/Zadaca3/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/E24/RiskTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/E24/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/E27/RiskTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/E27/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/EighteeinthExercise/LoadedCoinTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/EigthExercise/ArchiveStoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/EleventhExercise/GenericFractionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FifteenthExercise/MojDDVTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FifteenthExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FifthExercise/MinAndMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FirstExercise/Shapes1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FirstExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FourthExercise/LoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/FourtheenthExercise/WeatherStationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/NineteenthExercise/SubtitlesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/NineteenthExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/NinthExercise/TripleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SecondExercise/Shapes2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SecondExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SeventeenthExercise/FrontPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SeventhExercise/InvalidTimeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SeventhExercise/TimesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SeventhExercise/UnsupportedFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SeventhExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SixthExercise/ShapesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/SixthExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/TenthExercise/EvaluatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/ThirdExercise/FileSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/TwenteethFIrstExercise/F1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/TwenteethFIrstExercise/file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrvKolokviumVezbi/TwenteethSecondExercise/RuleTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/PrvaZadaca/AuditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/Vezba1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/InterestBearingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/InterestCheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/NonInterestCheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/NotEnoughMoneyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/prvaZadaca/PlatinumCheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Vezbi/tretaAuditoriskaVezbi/vtoraZadaca/Substraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca1/AuditionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca2/BooksTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca23/LabExercisesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca3/DiscountsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca36/DeliveryAppTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca37/PostTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca38/QuizProcessorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca4/FileSystemTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VtorKolokviumVezbi/Zadaca6/PayrollSystemTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-18.0.1.1/lib/src.zip!/java.base/java/util/Date.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2Wl5eGAdPUzWkdPisbStGTIJiWj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AuditionTest.executor": "Run",
+    "Application.DeliveryAppTester.executor": "Run",
+    "Application.QuizProcessorTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="PrvKolokviumVezbi.SeventhExercise" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DeliveryAppTester">
+    <configuration name="AuditionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VtorKolokviumVezbi.Zadaca1.AuditionTest" />
+      <module name="Napredno_Programiranje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VtorKolokviumVezbi.Zadaca1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeliveryAppTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VtorKolokviumVezbi.Zadaca36.DeliveryAppTester" />
+      <module name="Napredno_Programiranje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VtorKolokviumVezbi.Zadaca36.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrvKolokviumVezbi.E27.RiskTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrvKolokviumVezbi.E27.RiskTester" />
+      <module name="Napredno_Programiranje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrvKolokviumVezbi.E27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuizProcessorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VtorKolokviumVezbi.Zadaca38.QuizProcessorTest" />
+      <module name="Napredno_Programiranje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VtorKolokviumVezbi.Zadaca38.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RiskTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrvKolokviumVezbi.E24.RiskTester" />
+      <module name="Napredno_Programiranje" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="PrvKolokviumVezbi.E24.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DeliveryAppTester" />
+        <item itemvalue="Application.QuizProcessorTest" />
+        <item itemvalue="Application.AuditionTest" />
+        <item itemvalue="Application.PrvKolokviumVezbi.E27.RiskTester" />
+        <item itemvalue="Application.RiskTester" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-3183f394aec4-38982a12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\alenj\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a92b738-7eb1-45f5-8ec3-ca8c0c03ed23" name="Changes" comment="" />
+      <created>1697294421639</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697294421639</updated>
+      <workItem from="1697294422695" duration="2629000" />
+      <workItem from="1697539627334" duration="429000" />
+      <workItem from="1697541798338" duration="66000" />
+      <workItem from="1698247726734" duration="15454000" />
+      <workItem from="1698702479539" duration="6310000" />
+      <workItem from="1698950404785" duration="7906000" />
+      <workItem from="1701091274577" duration="987000" />
+      <workItem from="1701093610389" duration="11000" />
+      <workItem from="1701093635291" duration="23066000" />
+      <workItem from="1701241301659" duration="45240000" />
+      <workItem from="1701512653999" duration="10753000" />
+      <workItem from="1701736589757" duration="672000" />
+      <workItem from="1702087153199" duration="23000" />
+      <workItem from="1702126166828" duration="273000" />
+      <workItem from="1704901129783" duration="7137000" />
+      <workItem from="1704984438578" duration="17643000" />
+      <workItem from="1705161465032" duration="17574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/PrvKolokviumVezbi/NineteenthExercise/SubtitlesTest.java</url>
+          <line>106</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
